@@ -1,0 +1,6 @@
+# File konfigurasi lokal
+includes/config.php
+
+# Berkas unggahan dinamis (pertahankan folder)
+uploads/*
+!uploads/.gitkeep
